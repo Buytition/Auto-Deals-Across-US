@@ -1,8 +1,8 @@
 This document lists out most recent auto deals compiled by Buytition email reader robot.
 
-# 201705
+# Most Recent Auto Deals
 
-# Weekend of 20170526 (Memorial Day)
+## Weekend of 20170526 (Memorial Day)
 
 * **Dealer**: Clear Lake Infiniti
 * **Rating**: 4.8 out of 5 rating on Google, and 3 out of 5 rating from Yelp
