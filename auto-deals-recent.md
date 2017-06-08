@@ -4,7 +4,7 @@ This document lists out most recent auto deals compiled by Buytition email reade
 
 ## Weekend of 20170609
 
-Subaru Deals in Northern VA
+2017 Subaru Legacy $24,421+TTL, 14% off MSRP in Northern VA
 
 * **Dealer**: Stohlman Subaru of Sterling
 * **Sales Event**: Summer Kick-off 
@@ -15,7 +15,9 @@ Subaru Deals in Northern VA
 * **Deal Highlights**: [a couple of 2017 Subaru vehicles](http://buytition.com/web/dashboard.php#/all_quotes?zip5=&kw=&dmid=10762106&qtdt=2017-06-07) priced up to **14% off MSRP**, for example, this [2017 Subaru Legacy](http://buytition.com/web/dashboard.php#/all_quotes?zip5=75150&kw=&dmid=10762106&qtdt=2017-06-07&quote_id=41767_1140) is priced at $24,421, 14% off MSRP $28,609
 * **Fine Prints**: In stock vehicles only. Sale prices include destination charge. Financing on approved credit, limited term. No down payment required with approval. Interest charges (if any) accrue during 90 day deferment, limitations apply. Lease payments based on 3 year term / 12K miles per year / $0.00 security deposit / $2495.00 due at signing unless disclosed differently below offers above. Excludes prior sales.
 
-GMC, Buick and Chevy Deals in Northern VA
+Check out [this page](https://github.com/Buytition/Auto-Deals-Across-US/blob/master/auto-deals-recent.md#most-recent-auto-deals) to get most up-to-date auto deals across US.
+
+2017 Chevy Traverse $28,972+TTL, 23% off MSRP in Northern VA
 
 * **Dealer**: Ourisman Chevrolet Buick GMC of Alexandria
 * **Sales Event**: June Super Tag Event
@@ -25,6 +27,8 @@ GMC, Buick and Chevy Deals in Northern VA
 * **Expires**: 20170630
 * **Deal Highlights**: [a couple of 2017 GMC, Buick and Chevy vehicles](http://buytition.com/web/dashboard.php#/all_quotes?zip5=75150&kw=&dmid=7427&qtdt=2017-06-07) priced up to **23% off MSRP**, for example, this [2017 Chevy Traverse](http://buytition.com/web/dashboard.php#/all_quotes?zip5=75150&kw=&dmid=7427&qtdt=2017-06-07&quote_id=41766_393) is priced at $28,972, 23% off MSRP $37,655
 * **Fine Prints**: Offer ends Friday June 30th, 2017 at 9pm. Offers cannot be combined. Finance offer valid on approved credit. Offers valid on in stock units. See dealer for more details.
+
+Check out [this page](https://github.com/Buytition/Auto-Deals-Across-US/blob/master/auto-deals-recent.md#most-recent-auto-deals) to get most up-to-date auto deals across US.
 
 ## Weekend of 20170526 (Memorial Day)
 
