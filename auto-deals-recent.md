@@ -4,14 +4,27 @@ This document lists out most recent auto deals compiled by Buytition email reade
 
 ## Weekend of 20170609
 
+Subaru Deals in Northern VA
+
 * **Dealer**: Stohlman Subaru of Sterling
 * **Sales Event**: Summer Kick-off 
-* **Rating**: 4.5 out of 5 on Google, and 4 out of 5 on Yelp
+* **Rating**: 4.5 out of 5 on Google, 4 out of 5 on Yelp
 * **Location**: Sterling, VA
 * **Make**: Subaru
 * **Expires**: 20170612
 * **Deal Highlights**: [a couple of 2017 Subaru vehicles](http://buytition.com/web/dashboard.php#/all_quotes?zip5=&kw=&dmid=10762106&qtdt=2017-06-07) priced up to **14% off MSRP**, for example, this [2017 Subaru Outback](http://buytition.com/web/dashboard.php#/all_quotes?zip5=75150&kw=&dmid=10762106&qtdt=2017-06-07&quote_id=41767_1140) is priced at $24,421, 14% off MSRP $28,609
 * **Fine Prints**: In stock vehicles only. Sale prices include destination charge. Financing on approved credit, limited term. No down payment required with approval. Interest charges (if any) accrue during 90 day deferment, limitations apply. Lease payments based on 3 year term / 12K miles per year / $0.00 security deposit / $2495.00 due at signing unless disclosed differently below offers above. Excludes prior sales.
+
+GMC, Buick and Chevy Deals in Northern VA
+
+* **Dealer**: Ourisman Chevrolet Buick GMC of Alexandria
+* **Sales Event**: June Super Tag Event
+* **Rating**: 3.5 out of 5 on Google, 2 out of 5 on Yelp
+* **Location**: Alexandria, VA
+* **Make**: GMC, Buick and Chevy
+* **Expires**: 20170630
+* **Deal Highlights**: [a couple of 2017 GMC, Buick and Chevy vehicles](http://buytition.com/web/dashboard.php#/all_quotes?zip5=75150&kw=&dmid=7427&qtdt=2017-06-07) priced up to **23% off MSRP**, for example, this [2017 Chevy Traverse](http://buytition.com/web/dashboard.php#/all_quotes?zip5=75150&kw=&dmid=7427&qtdt=2017-06-07&quote_id=41766_393) is priced at $28,972, 23% off MSRP $37,655
+* **Fine Prints**: Offer ends Friday June 30th, 2017 at 9pm. Offers cannot be combined. Finance offer valid on approved credit. Offers valid on in stock units. See dealer for more details.
 
 ## Weekend of 20170526 (Memorial Day)
 
