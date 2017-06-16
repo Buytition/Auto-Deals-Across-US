@@ -2,6 +2,18 @@ This document lists out most recent auto deals compiled by Buytition email reade
 
 # Most Recent Auto Deals
 
+## Weekend of 20170616
+
+2017 Nissan Sentra $13,662+TTL, 24% off MSRP 18,215 in Austin TX
+
+* **Dealer**: Clay Cooley Nissan
+* **Rating**: 4.2 out of 5 on Google, 1.5 out of 5 on Yelp
+* **Location**: Austin, TX
+* **Make**: Nissan
+* **Expires**: 20170705
+* **Deal Highlights**: [a couple of 2017 Nissan vehicles](http://buytition.com/web/dashboard.php#/all_quotes?zip5=&kw=&dmid=1499&qtdt=) priced up to **25% off MSRP**, for example, this [2017 NIssan Sentra](http://buytition.com/web/dashboard.php#/all_quotes?zip5=&kw=&dmid=&qtdt=&quote_id=42073_2546) is priced at $13,662+TTL, 24% off MSRP 18,215
+* **Fine Prints**: 2017 Nissan Sentra S. MSRP: $18,215 - Nissan cash back $1,750 - Clay Cooley Discount $2,803 = Sale price $13,662. Sales price excludes tax, title, license, Dealer Prep, Smog Fees, Credit Investigation, Optional Credit Insurance, Physical Damage of Liability Insurance. Discount and Factory rebates cannot be combined with any Incentivize APR factory finance offers. See Clay Cooley Nissan for details. VIN #3N1AB7AP9HY205629. Two (or more) at this price. Images are for illustrative purposes only. Expires 07/05/2017
+
 ## Weekend of 20170609
 
 2017 Subaru Legacy $24,421+TTL, 14% off MSRP in Northern VA
