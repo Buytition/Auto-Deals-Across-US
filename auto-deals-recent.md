@@ -15,6 +15,8 @@ This document lists out most recent auto deals compiled by Buytition email reade
 * **Deal Highlights**: [a couple of 2017 Ford vehicles](http://buytition.com/web/dashboard.php#/my_quotes?zip5=&kw=&dmid=7829&qtdt=2017-06-16) priced up to **35% off MSRP**, for example, this [2017 Ford Escape](http://buytition.com/web/dashboard.php#/my_quotes?zip5=&kw=&dmid=7829&qtdt=2017-06-16&quote_id=42225_1276) is priced at $15,999+TTL, 35% off MSRP 24,645
 * **Fine Prints**: ALL OFFERS PLUS TAX, TAGS, TITLE, $300 MD PROCESSING FEE (NOT REQUIRED BY LAW) AND FREIGHT (FIESTA $825; FOCUS/FUSION $875; ESCAPE/EXPLORER $895; F-150 $1,195). ALL OFFERS WITH APPROVED CREDIT THROUGH FORD MOTOR CREDIT COMPANY. ^APR FINANCING: 0% FOR 60 MONTHS $16.67 PER $1,000 FINANCED. 0% FOR 72 MONTHS $13.89 PER $1,000 FINANCED.0.9% FOR 36 MONTHS $28.16 PER $1,000 FINANCED. OFFERS EXPIRE 7/5/2017.
 
+Check out [this page](https://github.com/Buytition/Auto-Deals-Across-US/blob/master/auto-deals-recent.md#most-recent-auto-deals) to get most up-to-date auto deals across US.
+
 2017 Nissan Sentra $13,662+TTL, 24% off MSRP 18,215 in Austin TX
 
 * **Dealer**: Clay Cooley Nissan
@@ -24,6 +26,8 @@ This document lists out most recent auto deals compiled by Buytition email reade
 * **Expires**: 20170705
 * **Deal Highlights**: [a couple of 2017 Nissan vehicles](http://buytition.com/web/dashboard.php#/all_quotes?zip5=&kw=&dmid=1499&qtdt=) priced up to **25% off MSRP**, for example, this [2017 NIssan Sentra](http://buytition.com/web/dashboard.php#/all_quotes?zip5=&kw=&dmid=&qtdt=&quote_id=42073_2546) is priced at $13,662+TTL, 24% off MSRP 18,215
 * **Fine Prints**: 2017 Nissan Sentra S. MSRP: $18,215 - Nissan cash back $1,750 - Clay Cooley Discount $2,803 = Sale price $13,662. Sales price excludes tax, title, license, Dealer Prep, Smog Fees, Credit Investigation, Optional Credit Insurance, Physical Damage of Liability Insurance. Discount and Factory rebates cannot be combined with any Incentivize APR factory finance offers. See Clay Cooley Nissan for details. VIN #3N1AB7AP9HY205629. Two (or more) at this price. Images are for illustrative purposes only. Expires 07/05/2017
+
+Check out [this page](https://github.com/Buytition/Auto-Deals-Across-US/blob/master/auto-deals-recent.md#most-recent-auto-deals) to get most up-to-date auto deals across US.
 
 ## Weekend of 20170609
 
