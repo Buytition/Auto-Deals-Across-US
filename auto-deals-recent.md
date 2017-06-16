@@ -4,6 +4,17 @@ This document lists out most recent auto deals compiled by Buytition email reade
 
 ## Weekend of 20170616
 
+2017 Ford Escape $15,999+TTL, 35% off MSRP 24,645 in DC Metro Area
+
+* **Dealer**: Sheehy Ford Gaithersburg
+* **Sales Event**: Sheehy 8000 Sales Race 
+* **Rating**: 4.5 out of 5 on Google, 3 out of 5 on Yelp
+* **Location**: Gaithersburg, MD
+* **Make**: Ford
+* **Expires**: 20170705
+* **Deal Highlights**: [a couple of 2017 Ford vehicles](http://buytition.com/web/dashboard.php#/my_quotes?zip5=&kw=&dmid=7829&qtdt=2017-06-16) priced up to **35% off MSRP**, for example, this [2017 Ford Escape](http://buytition.com/web/dashboard.php#/my_quotes?zip5=&kw=&dmid=7829&qtdt=2017-06-16&quote_id=42225_1276) is priced at $15,999+TTL, 35% off MSRP 24,645
+* **Fine Prints**: ALL OFFERS PLUS TAX, TAGS, TITLE, $300 MD PROCESSING FEE (NOT REQUIRED BY LAW) AND FREIGHT (FIESTA $825; FOCUS/FUSION $875; ESCAPE/EXPLORER $895; F-150 $1,195). ALL OFFERS WITH APPROVED CREDIT THROUGH FORD MOTOR CREDIT COMPANY. ^APR FINANCING: 0% FOR 60 MONTHS $16.67 PER $1,000 FINANCED. 0% FOR 72 MONTHS $13.89 PER $1,000 FINANCED.0.9% FOR 36 MONTHS $28.16 PER $1,000 FINANCED. OFFERS EXPIRE 7/5/2017.
+
 2017 Nissan Sentra $13,662+TTL, 24% off MSRP 18,215 in Austin TX
 
 * **Dealer**: Clay Cooley Nissan
